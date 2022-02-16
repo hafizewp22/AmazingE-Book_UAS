@@ -2,7 +2,7 @@
 The Amazing E-Book website is a website for finding book information in the library and being able to borrow books online. This website uses laravel 8.0.
 
 Here are the results of the application:
-![Image of Quiz Tokoh Dunia](https://github.com/hafizelfiawedoputra/BukaWarung_Project/blob/main/Screen%20Shot%202022-01-24%20at%2020.57.05.png)
+![Image of Quiz Tokoh Dunia](https://github.com/hafizewp22/AmazingE-Book_UAS/blob/main/Screen%20Shot%202022-02-16%20at%2009.19.41.png)
 
 Note.<br>
 1. How to run the database by typing in Terminal:<br>
