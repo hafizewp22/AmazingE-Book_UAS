@@ -1,0 +1,83 @@
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.upper-content-title h1{
+    font-size: 40px;
+    text-align: left;
+    padding : 5px;
+    background: #ff9c01;
+    margin-top: 30px;
+}
+
+.upper-content-title p {
+    margin-right: 20%;
+    margin-left: 7%;
+    padding: 50px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.content .upper-content {
+    display: flex;
+    /*align-items: center;*/
+    justify-content: center;
+}
+
+/*Table Book*/
+.upper-content-categori{
+    padding-left: 60px;
+}
+
+.upper-content-categori h1{
+    font-size: 40px;
+    text-align: left;
+    padding : 5px;
+    background: #ff9c01;
+    margin-top: 30px;
+}
+
+.content .upper-content .upper-content-categori {
+    width: 330px;
+    margin-right: 4%;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.upper-content-title #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #346EF4;
+    color: white;
+}
+
+/*tabel book*/
+tr td a{
+    color: #333;
+    text-decoration: none;
+}
+
+.upper-content-categori table tr td a{
+    color: #346EF4;
+    text-decoration: none;
+}
+
+/*Previous and Next Buttons*/
+.buttonPn{
+    padding-left: 30%;
+    padding-block: 10px;
+}

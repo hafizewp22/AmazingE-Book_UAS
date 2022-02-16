@@ -1,0 +1,68 @@
+.content.wrapper-content{
+    width: 1px;
+    border-radius: 8px;
+    padding: 30px 95px 30px 90px;
+}
+
+.content .content-title h1 {
+    color: #ffffff;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.content .content-title {
+    margin-bottom: 50px;
+}
+
+.content form{
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h2 {
+    color: #000000;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: #000000;
+    font-size: 40px;
+    font-family: "Adobe Fan Heiti Std B";
+}
+
+td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+tr td select {
+    width: 100px;
+    box-sizing: border-box;
+}
+
+.btn-submit{
+    background-position: center;
+    width:60%;
+    height: 50px;
+}
+
+.btn-submit1{
+    background-position: center;
+}
+
+.btn-submit12, .btn-success1, .btn-danger1{
+    background-position: center;
+}
+
+.btn-submit, .btn-submit1, .btn-submit12{
+    font-weight: bold;
+    color: #000000;
+    background-color: #ffaf1e;
+}
+
+
